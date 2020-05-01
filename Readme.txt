@@ -1,6 +1,6 @@
 Origin Source Course Thomas Jung Basic ABAP OO eLearnings
 
-Apuntes recuperados del curso de Thomas Jung - Basic ABAP 00 eLearning, no es el curso completo, solo anotaciones realizadas.
+Apuntes recuperados del curso de Thomas Jung - Basic ABAP 00 eLearning, no es el curso completo, solo una pequeña reconstrucción a partir de anotaciones realizadas.
 
 Introducción
 Parte 1 - Conceptos básicos
